@@ -65,7 +65,9 @@ Disadvantages:
 
 
 ## When:
-#
+1) During travel from one place to another place through train.
+
+2) During covid suitation helps to avoid que for ticket booking at the counters.
 
 ## where:
 #
