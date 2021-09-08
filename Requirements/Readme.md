@@ -90,7 +90,12 @@ The user can access the console through laptops/computer and get details of buse
 #
 |ID | Description| Status(Implemented/Future)|
 |---|---|---|
-|LR.O1 |   | Implemented
+|LR.O1|	User name	HR.01	|Implemented
+|LR.O2|	User password	HR.01	|Implemented
+|LR.O3|	No of Passengers	HR.02	|Implemented
+|LR.O4|	Name of the passenger	HR.02|Implemented
+|LR.O5|	Gender	HR.02	|Implemented
+|LR.O6|	Age	HR.02	|Implemented
 
 
 
