@@ -57,7 +57,12 @@ Disadvantages:
 ## 4W'S AND 1'H
 ## Who:
 ## What:
-#
+1) Taking passenger details like name, age, gender.
+ 
+2) Knowing the source and destination.
+
+3) Scheduling the date and time of travel.
+
 
 ## When:
 #
