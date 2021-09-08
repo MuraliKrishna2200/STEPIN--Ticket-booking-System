@@ -80,12 +80,11 @@ The user can access the console through laptops/computer and get details of buse
 #
 |ID | Description| Status(Implemented/Future)|
 |---|---|---|
-|HR.01|   | Implememted
-HR.01	User should be able to login	Implememted
-HR.02	User should be able to select passenger details	Implememted
-HR.03	User should be able to reserve the seat	Implememted
-HR.04	User should be able to choose the travel path	Implememted
-HR.05	Payment	Future
+|HR.01|	User should be able to login	|Implememted
+|HR.02|	User should be able to select passenger details	|Implememted
+|HR.03|User should be able to reserve the seat	|Implememted
+|HR.04|	User should be able to choose the travel path	|Implememted
+|HR.05|	Payment	Future
 
 ## Low Level Requirements:
 #
