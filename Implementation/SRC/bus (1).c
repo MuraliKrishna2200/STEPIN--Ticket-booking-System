@@ -1,4 +1,10 @@
 #include "bus.h"
+#include <string.h>
+char ch[10][130]={"Jude Express","Adones Liner","Bicol Express","Sax Bus Lines","Phil Express"};
+char name[32][100]={'\0'};
+char number[32][2]={'\0'};
+int num1[32]={0};
+int trno;
 void bus()
 {
     system("cls");

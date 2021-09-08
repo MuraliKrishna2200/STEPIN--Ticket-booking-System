@@ -1,4 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include "bus.h"
+#include "bus.c"
+
 char ch[10][130]={"Jude Express","Adones Liner","Bicol Express","Sax Bus Lines","Phil Express"};
 char name[32][100]={'\0'};
 char number[32][2]={'\0'};
