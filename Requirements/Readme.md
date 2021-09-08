@@ -70,10 +70,10 @@ Disadvantages:
 2) During covid suitation helps to avoid que for ticket booking at the counters.
 
 ## where:
-#
+The user can acess the application on his handest and on his desktop which requires active internet connection
 
 ## How:
-#
+The user can access the console through laptops/computer and get details of buses, Scheduling date and time etc diet and workout charts at the comfort of their home/office
 
 # Detail requirements
 ## High Level Requirements:
